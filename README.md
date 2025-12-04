@@ -13,15 +13,6 @@ It consists of two major modules:
 -   **Frontend**: React.js, Tailwind CSS, Recharts
 -   **Machine Learning**: Oracle Machine Learning (OML) for SQL
 
-## Resume Highlights
-> Copy these points to your resume to showcase your Oracle expertise.
-
-*   **Enterprise Application Development**: Architected a dual-module enterprise platform integrating **Oracle Database** for transactional HR systems and **Oracle Autonomous Database** for security analytics.
-*   **Advanced PL/SQL Programming**: implemented complex business logic for payroll processing and leave management using **Stored Procedures**, **Functions**, **Triggers**, and **Packages**, ensuring data integrity and high performance.
-*   **In-Database Machine Learning**: Deployed an Intrusion Detection System using **Oracle Machine Learning (OML)**, training classification models directly within the database to detect network threats with high accuracy.
-*   **Full-Stack Integration**: Built a modern **React** dashboard connected to a **Python FastAPI** backend, utilizing **OracleDB** drivers for efficient connection pooling and data retrieval.
-*   **Data Visualization & Analytics**: Designed interactive dashboards to visualize workforce metrics and security threats, mimicking **Oracle Analytics Cloud** capabilities.
-
 ## Setup Instructions
 
 ### Prerequisites
