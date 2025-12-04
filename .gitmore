@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+
+# Node modules
+frontend/node_modules/
+
+# Environment variables
+.env
+*.env
+
+# Build / dist output
+dist/
+build/
+
+# IDE & OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
